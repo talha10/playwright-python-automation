@@ -34,7 +34,7 @@ playwright-python-automation/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/talhakhattak/playwright-python-automation.git
+   git clone https://github.com/talha10/playwright-python-automation.git
    cd playwright-python-automation
    ```
 
